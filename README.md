@@ -17,3 +17,9 @@ tiktoken - backend tokenizer for openai
 
 # Credit
 Produced with the guidance of [Nicholas Renotte](https://github.com/nicknochnack)'s [LangChain Crash Course: Build a AutoGPT app in 25 minutes!](https://www.youtube.com/watch?v=MlK6SIjcjE8)
+
+[nicknochnack/Langchain-Crash-Course](https://github.com/nicknochnack/Langchain-Crash-Course)
+
+[Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
+[hwchase17/langchain](https://github.com/hwchase17/langchain)
