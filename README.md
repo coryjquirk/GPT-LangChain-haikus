@@ -1,7 +1,7 @@
 
 # Dependency Installation:
-`pip install steamlit langchain openai wikipedia chromadb tiktoken`
-steamlit - used to build the app
+`pip install streamlit langchain openai wikipedia chromadb tiktoken`
+streamlit - used to build the app
 langchain - used to build llm workflow
 openai - needed to use openai gpt
 wikipedia - used to connect gpt to wikipedia
