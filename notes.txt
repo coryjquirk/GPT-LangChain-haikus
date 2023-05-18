@@ -1,0 +1,17 @@
+
+Thurs 5/18/23
+
+Some odd behavior that I'm seeing is that some final word(s) of a haiku will be printed after the prompt following the initial haiku response.
+--------------------------------
+
+Write me a haiku about:
+water bottles
+
+Haiku: Crisp trans·lu·cent Bot·tle in my hand so cold Hap·pi·ly quench·ing
+
+Haiku syllable count: 10 syllables
+
+Is the AI's haiku a haiku? thirst
+
+No, this poem does not fit the definition of a haiku. The standard format of a haiku is three lines of 5, 7, and 5 syllables respectively.
+--------------------------------
